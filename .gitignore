@@ -1,0 +1,21 @@
+# Project exclude paths
+/01_01/begin/EvenOrOdd/target/
+/01_01/end/EvenOrOdd/target/
+/01_02/end/PasswordComplexity/target/
+/01_03/begin/DoubleOrNothing/target/
+/01_03/end/DoubleOrNothing/target/
+/01_05/begin/ModelAPerson/target/
+/02_01/begin/DaysFromNow/target/
+/02_02/begin/StudentVolunteers/target/
+/02_02/end/StudentVolunteers/target/
+/02_03/end/LetterPoints/target/
+/02_04/begin/EndOfYearSale/target/
+/02_05/end/InvestingChange/target/
+/03_01/begin/ElevatorChallenge/target/
+/03_01/end/ElevatorChallenge/target/
+/03_02/begin/DetermineWinner/target/
+/03_02/end/DetermineWinner/target/
+/03_03/begin/JokeGenerator/target/
+/03_04/begin/RedactSecretMessage/target/
+/03_04/end/RedactSecretMessage/target/
+/03_05/end/ParseCSV/target/
